@@ -76,6 +76,41 @@ Implemented Grad-CAM to interpret CNN predictions
   </a>
 </p>
 ---
+## 🚀 Featured Projects
+
+### 🔢 MNIST Digit Classifier
+📌 Built a Convolutional Neural Network (CNN) to classify handwritten digits  
+🧠 Learned feature extraction, convolution layers, and training pipelines  
+🔧 Tech: TensorFlow, Python  
+
+👉 [View Project](https://github.com/prishi12345/YOUR-REPO-LINK)
+
+---
+
+### 🕸️ Graph Neural Networks (Node Classification)
+📌 Implemented node classification using graph-based learning  
+🧠 Explored how relationships between data points improve predictions  
+🔧 Tech: PyTorch / TensorFlow, NetworkX  
+
+👉 [View Project](https://github.com/prishi12345/YOUR-REPO-LINK)
+
+---
+
+### 📊 Graph vs Non-Graph Learning
+📌 Compared traditional ML models with graph-based approaches  
+🧠 Analyzed performance differences and when graphs matter  
+🔧 Tech: Python, Scikit-learn  
+
+👉 [View Project](https://github.com/prishi12345/YOUR-REPO-LINK)
+
+---
+
+### 🔍 Explainable AI (Grad-CAM)
+📌 Visualized CNN predictions using Grad-CAM heatmaps  
+🧠 Focused on model interpretability and transparency  
+🔧 Tech: TensorFlow, OpenCV  
+
+👉 [View Project](https://github.com/prishi12345/YOUR-REPO-LINK)
 
 ✨ *Always curious, always learning, and always trying to build something meaningful.*
 <!---

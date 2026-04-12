@@ -1,4 +1,12 @@
-Hi, I'm Priyanshi Agarwal 
+<h1 align="center">Hi 👋, I'm Priya</h1>
+
+<p align="center">
+  🌸 Curious Mind | 🤖 AI/ML Enthusiast | 🚀 Always Learning
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Explorer;Learning+Every+Day;Future+Researcher;Creative+Thinker&center=true&width=380&height=45">
+</p>
 
  Third-year Integrated M.Tech student in Computer Science (AI & ML) at VIT Bhopal  
 
@@ -42,10 +50,24 @@ Implemented Grad-CAM to interpret CNN predictions
 - Applications of AI in real-world domains  
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prishi12345&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prishi12345&theme=tokyonight" />
+</p>
+
+---
 
 ## 📫 Connect With Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshi-agarwal-9ba7a2200)  
 💻 [GitHub](https://github.com/prishi12345)
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
 
 ---
 

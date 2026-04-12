@@ -62,12 +62,19 @@ Implemented Grad-CAM to interpret CNN predictions
 ---
 
 ## 📫 Connect With Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/priyanshi-agarwal-9ba7a2200)  
-💻 [GitHub](https://github.com/prishi12345)
-<a href="mailto:your_email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/priydiv">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
+  <a href="https://github.com/prishi12345">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 ---
 
 ✨ *Always curious, always learning, and always trying to build something meaningful.*

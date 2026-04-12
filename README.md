@@ -5,7 +5,7 @@ Hi, I'm Priyanshi Agarwal
 ---
 
 ## 🚀 About Me  
-I am deeply interested in Machine Learning, Deep Learning, and Data-Driven Systems**, with a growing focus on applying AI to solve real-world problems.  
+I am deeply interested in Machine Learning, Deep Learning, and Data-Driven Systems, with a growing focus on applying AI to solve real-world problems.  
 
 I enjoy building models, understanding how they work internally, and exploring how they can be made more interpretable and efficient.
 

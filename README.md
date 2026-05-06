@@ -50,16 +50,6 @@ Implemented Grad-CAM to interpret CNN predictions
 - Applications of AI in real-world domains  
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prishi12345&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prishi12345&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 <p align="left">

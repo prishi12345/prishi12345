@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priya</h1>
+<h1 align="center">Hi 👋, I'm Priyanshi</h1>
 
 <p align="center">
   🌸 Curious Mind | 🤖 AI/ML Enthusiast | 🚀 Always Learning
